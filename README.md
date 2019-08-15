@@ -1,6 +1,6 @@
 # robofriends
 
-clone repository
-run:
-npm install
-npm start
+#clone repository
+#run:
+#npm install
+#npm start
